@@ -1,0 +1,40 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+.conteiner {
+	background-color: #f4f4f4;
+	height: 100%;
+	max-width: 800px;
+	width: 100%;
+	margin: 0 auto;
+}
+.maine {
+	padding-top: 30px;
+	padding-bottom: 60px;
+	text-align: center; 
+}
+.spisok h2 {
+	text-align: center; 
+	color: green;
+	padding-bottom: 30px;
+}
+.spisok ul {
+	text-decoration: underline;
+	padding-bottom: 100px
+}
+.ramka {
+	border: 5px solid blue;
+}
+.ramka p {
+	padding-top: 16px;
+	padding-left: 16px;
+}
+.link {
+	padding-top: 26px;
+	padding-left: 90%;
+}
+[href="https://ru.wikipedia.org/wiki/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5"] {
+	text-decoration: none;
+	color: orange;
+}
